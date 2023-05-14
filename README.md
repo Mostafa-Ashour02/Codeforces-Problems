@@ -1,3 +1,3 @@
 # Codeforces-Problems
 
-## codeoforces problems solution using Cpp.
+### codeoforces problems solution using Cpp.
